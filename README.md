@@ -52,7 +52,7 @@ sudo pacman -S tk
 
 ```bash
 git clone https://github.com/AyanSen-in/TIK_TIK-Time_App.git
-cd greeting-clock
+cd Live-clock
 ```
 
 No further setup is needed.
