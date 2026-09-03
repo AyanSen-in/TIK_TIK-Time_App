@@ -19,8 +19,8 @@ A lightweight desktop clock application built with Python's standard library. It
 
 ```
 ┌─────────────────────────┐
-│         14:32:07         │
-│    good noon boss!       │
+│         14:32:07        │
+│      good noon boss!    │
 └─────────────────────────┘
 ```
 
@@ -51,7 +51,7 @@ sudo pacman -S tk
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/greeting-clock.git
+git clone https://github.com/AyanSen-in/TIK_TIK-Time_App.git
 cd greeting-clock
 ```
 
@@ -70,7 +70,7 @@ The GUI window opens immediately, showing the live time and greeting. A popup no
 ## Project Structure
 
 ```
-greeting-clock/
+Live-clock/
 ├── clock_app.py       # Main application: timestamp helpers, greeting logic, and Tkinter UI
 └── README.md          # Project documentation
 ```
