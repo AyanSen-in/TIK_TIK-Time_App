@@ -1,4 +1,4 @@
-# Greeting Clock
+#  Live_Clock
 
 A lightweight desktop clock application built with Python's standard library. It displays the current local time, shows a time-of-day greeting, and pops up a notification whenever the hour changes.
 
